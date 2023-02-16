@@ -1,10 +1,11 @@
-# Change these first
-owner: VirtualBAW # Your GitHub organization or username, where this repository lives
-repo: status-page # The name of this repository
+owner: VirtualBAW
+repo: status-page
 
 sites:
   - name: Website Frontend
     url: https://virtualbaw.com
+  - name: vAMSYS Dashboard
+    url: https://vamsys.io
   - name: Support System
     url: https://support.virtualbaw.com
   - name: Ventura Server
@@ -15,15 +16,15 @@ assignees:
 
 status-website:
   cname: status.virtualbaw.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: ocean
+  logoUrl: blob:https://virtualbawgroup.sharepoint.com/b1ca4f6f-bce6-443f-be46-e17747080b3c
   name: VirtualBAW
   introTitle: "Welcome to the status page for VirtualBAW"
   introMessage: This page shows off the current status of the VirtualBAW services and any issues that may have happened recently.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Website
+      href: https://virtualbaw.com
+    - title: Community Discord Server
+      href: https://discord.virtualbaw.com
+    - title: Support
+      href: mailto:support.virtualbaw.com
