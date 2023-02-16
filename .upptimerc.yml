@@ -17,7 +17,7 @@ assignees:
 status-website:
   cname: status.virtualbaw.com
   theme: ocean
-  logoUrl: blob:https://virtualbawgroup.sharepoint.com/b1ca4f6f-bce6-443f-be46-e17747080b3c
+  logoUrl: https://i.ibb.co/WDY663K/VB-Transparent.png
   name: VirtualBAW
   introTitle: "Welcome to the status page for VirtualBAW"
   introMessage: This page shows off the current status of the VirtualBAW services and any issues that may have happened recently.
