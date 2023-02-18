@@ -4,18 +4,20 @@
     "url": "https://virtualbaw.com",
     "icon": "https://icons.duckduckgo.com/ip3/virtualbaw.com.ico",
     "slug": "website-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 591,
-    "timeWeek": 659,
-    "timeMonth": 659,
-    "timeYear": 659,
-    "dailyMinutesDown": {}
+    "time": 650,
+    "timeDay": 594,
+    "timeWeek": 650,
+    "timeMonth": 650,
+    "timeYear": 650,
+    "dailyMinutesDown": {
+      "2023-02-18": 0
+    }
   },
   {
     "name": "vAMSYS Dashboard",
