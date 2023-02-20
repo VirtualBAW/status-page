@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/virtualbaw.com.ico",
     "slug": "website-frontend",
     "status": "down",
-    "uptime": "62.74%",
+    "uptime": "59.30%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.74%",
-    "uptimeMonth": "62.74%",
-    "uptimeYear": "62.74%",
+    "uptimeWeek": "59.30%",
+    "uptimeMonth": "59.30%",
+    "uptimeYear": "59.30%",
     "time": 607,
     "timeDay": 391,
     "timeWeek": 607,
     "timeMonth": 607,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2023-02-20": 41,
+      "2023-02-20": 442,
       "2023-02-19": 1440,
       "2023-02-18": 1093
     }
@@ -26,9 +26,9 @@
     "url": "https://vamsys.io",
     "icon": "https://icons.duckduckgo.com/ip3/vamsys.io.ico",
     "slug": "v-amsys-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 637,
     "timeMonth": 637,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-20": 0
+    }
   },
   {
     "name": "Support System",
